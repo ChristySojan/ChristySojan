@@ -34,7 +34,6 @@ Passionate about building scalable backend applications, data-driven solutions, 
 
 * FastAPI
 * PHP
-* Java
 
 ### Databases
 

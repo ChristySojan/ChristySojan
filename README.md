@@ -22,7 +22,7 @@ Passionate about building scalable backend applications, data-driven solutions, 
 
 * PHP
 * Python
-* Java
+* Core Java
 * SQL
 
 ### Frontend
@@ -57,7 +57,6 @@ Passionate about building scalable backend applications, data-driven solutions, 
 * VS Code
 * Claude
 * Cursor
-* Streamlit
 
 ---
 
@@ -67,26 +66,6 @@ Passionate about building scalable backend applications, data-driven solutions, 
 * Advanced Machine Learning
 * Scalable Backend Architectures
 * Cloud-Native Application Development
-
----
-
-## 🎯 Areas of Interest
-
-* Backend Development
-* Data Science & Machine Learning
-* Artificial Intelligence
-* Customer Analytics
-* Cloud Computing
-* Database Systems
-
----
-
-## 📈 GitHub Goals
-
-* Build impactful open-source projects
-* Contribute to real-world software solutions
-* Continuously improve development and ML skills
-* Share knowledge through practical projects
 
 ---
 

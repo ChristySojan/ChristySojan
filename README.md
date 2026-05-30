@@ -1,42 +1,101 @@
-# Hi there, I’m Christy Sojan (ChristySojan) 👋
+# Hi there, I'm Christy Sojan 👋
 
-Web Developer and Data Science Enthusiast with a flair for crafting backend-focused solutions using **PHP**, **Java**, **Python**, and **HTML**. Known for delivering clean, scalable solutions across web development and machine learning projects.
-
----
-
-## 🚀 Popular Projects
-
-| Name                                        | Description                                                                                                                                                                    |
-| ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Library Visit Monitoring System**         | PHP-driven library visit monitoring system                                                                                                                                     |
-| **Hostel Management System**                | Comprehensive PHP-based hostel management system                                                                                                                               |
-| **Staff Attendance Java**                   | Java console application for staff attendance management                                                                                                                       |
-| **End-to-End Customer Intelligence System** | Data Science project implementing customer segmentation, churn prediction, and customer lifetime value (CLV) estimation using machine learning models and Streamlit deployment |
+Passionate about building scalable backend applications, data-driven solutions, and AI-powered systems. I enjoy solving real-world problems through software development, machine learning, and modern development tools.
 
 ---
 
-## 💻 About Me
+## 🚀 Featured Projects
 
-* 🔹 Build web and backend systems using **PHP**, **Java**, and **WAMP Server**
-* 🔹 Develop machine learning solutions using **Python**, **Scikit-learn**, **Pandas**, and **XGBoost**
-* 🔹 Experienced in customer analytics, churn prediction, customer segmentation, and predictive modeling
-* 🔹 Passionate about backend development, data science, and learning new technologies
-* 🔹 Open to collaboration and challenging projects that create real-world impact
+| Project                                     | Description                                                                                                                                                                         |
+| ------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **NewsAggregator**                          | Full-stack news platform that aggregates articles, generates unbiased summaries, performs political bias analysis, and provides RAG-based news recommendations using vector search. |
+| **Library Visit Monitoring System**         | WAMP-based application for tracking library visits with real-time check-in/check-out functionality, role-based access control, and analytics dashboard.                             |
+| **Hostel Management System**                | PHP-based hostel management platform for managing students, rooms, hostel operations, and administrative activities.                                                                |
+| **Staff Attendance Monitoring System**      | Java application implementing attendance tracking using OOP concepts such as inheritance, abstraction, and role-based management.                                                   |
+| **End-to-End Customer Intelligence System** | Data Science project implementing customer segmentation, churn prediction, and customer lifetime value (CLV) estimation using machine learning models and Streamlit deployment.     |
 
 ---
 
-## 🛠️ Technologies & Tools
+## 💻 Technical Skills
 
-**Languages:** PHP, Java, Python
+### Programming Languages
 
-**Data Science & ML:** Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn
+* PHP
+* Python
+* Java
+* SQL
 
-**Frameworks & Tools:** FastAPI, Git, GitHub, WAMP Server
+### Frontend
 
-**Databases:** MySQL, PostgreSQL
+* HTML
+* CSS
+
+### Backend & Frameworks
+
+* FastAPI
+* PHP
+* Java
+
+### Databases
+
+* MySQL
+* PostgreSQL
+
+### Data Science & Machine Learning
+
+* Pandas
+* NumPy
+* Scikit-Learn
+* XGBoost
+* Matplotlib
+* Seaborn
+
+### Tools & Platforms
+
+* Git
+* GitHub
+* VS Code
+* Claude
+* Cursor
+* Streamlit
+
+---
+
+## 🌱 Currently Learning
+
+* AWS ECS & Containerized Deployments
+* Advanced Machine Learning
+* Scalable Backend Architectures
+* Cloud-Native Application Development
+
+---
+
+## 🎯 Areas of Interest
+
+* Backend Development
+* Data Science & Machine Learning
+* Artificial Intelligence
+* Customer Analytics
+* Cloud Computing
+* Database Systems
+
+---
+
+## 📈 GitHub Goals
+
+* Build impactful open-source projects
+* Contribute to real-world software solutions
+* Continuously improve development and ML skills
+* Share knowledge through practical projects
 
 ---
 
 ## 📫 Let's Connect
 
-Reach me via GitHub or share your project ideas—always open to new challenges, learning opportunities, and collaboration.
+* GitHub: https://github.com/ChristySojan
+* LinkedIn: [www.linkedin.com/in/christy-sojan-4b4365266](http://www.linkedin.com/in/christy-sojan-4b4365266)
+* Email: [sojanchristy4@gmail.com](mailto:sojanchristy4@gmail.com)
+
+---
+
+⭐ Feel free to explore my repositories and connect with me. I'm always open to learning, collaboration, and new opportunities.
